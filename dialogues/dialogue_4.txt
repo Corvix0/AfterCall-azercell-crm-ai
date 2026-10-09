@@ -1,0 +1,13 @@
+    Operator: Azercell dəstək, salam. Mənim adım Kamran.
+Müştəri: Salam, mən Rəşad Hüseynov. Türkiyədəyəm, roaminqdə problem yaşayıram.
+Operator: Buyurun, nə problem var?
+Müştəri: İnternet işləyir, amma zəng edə bilmirəm. Zəng edəndə "şəbəkə xətası" yazır.
+Operator: Hansı operatorun şəbəkəsindən istifadə edirsiniz orada?
+Müştəri: Türk Telekom. Amma əvvəlki səfərlərdə belə problem olmamışdı.
+Operator: Anladım. Bir neçə sualım var — SIM kartınızı çıxarıb yenidən taxmısınız?
+Müştəri: Xeyr, yoxlamamışam.
+Operator: Zəhmət olmasa, bir dəfə telefonu söndürüb yenidən açın və SIM kartı çıxarıb taxın. Sonra mənə zəng edin ki, nəticəni yoxlayaq.
+Müştəri: Yaxşı, indi edirəm. Mənə hansı nömrədən zəng edim?
+Operator: 055-200-33-44 daxili 12. Mən Kamranam.
+Müştəri: Yaxşı, 10 dəqiqə sonra zəng edirəm.
+Operator: Gözləyirəm. Bu halda müraciəti P2 kimi qeyd edirəm və nəticənizi gözləyirəm.

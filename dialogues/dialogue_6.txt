@@ -1,0 +1,14 @@
+Operator: Azercell müştəri xidmətləri, salam. Mənim adım Nigar. Buyurun.
+Müştəri: Salam, mən Kamran Əliyevəm. Təcili köməyə ehtiyacım var. Telefonumu oğurlayıblar.
+Operator: Çox təəssüf edirəm, cənab Əliyev. Nə vaxt baş verib?
+Müştəri: Təxminən bir saat əvvəl, metroda. İçində SIM kartım da var idi.
+Operator: Anladım. Dərhal SIM kartınızı bloklayaq ki, başqası istifadə edə bilməsin. Nömrənizi deyə bilərsiniz?
+Müştəri: 050-444-22-11.
+Operator: Bir saniyə... Bloklama əməliyyatını başladıram. Təhlükəsizlik üçün şəxsiyyət vəsiqənizin nömrəsini də deyə bilərsiniz?
+Müştəri: AZE1234567.
+Operator: Təşəkkür edirəm. SIM kart bloklandı. İndi yeni kart almaq üçün yaxınlıqdakı Azercell mərkəzinə gedə bilərsiniz. Vəsiqənizi aparın.
+Müştəri: Yaxşı, bəs balansım? Oğurlayan adam istifadə edə bilərmi?
+Operator: Xeyr, bloklandığı üçün heç bir əməliyyat mümkün deyil. Bu müraciəti P1 kimi qeyd edirəm və təhlükəsizlik şöbəsinə ötürürəm. E-poçt ünvanınızı verə bilərsiniz?
+Müştəri: kamran.aliyev@gmail.com.
+Operator: Qeyd etdim. Yeni SIM kart aldıqdan sonra bizə zəng edin, aktivləşdirək.
+Müştəri: Çox sağ olun, tez cavab verdiniz.

@@ -1,0 +1,11 @@
+Operator: Nar müştəri xidmətləri, salam. Mənim adım Aysel. Buyurun?
+Müştəri: Salam, mən Leyla Əhmədova. Sadəcə bir sualım var idi.
+Operator: Buyurun, dinləyirəm.
+Müştəri: Mənim tarifimdə aylıq internet limiti nə qədərdir? Yaddaşımda qalmayıb.
+Operator: Adınızı və nömrənizi deyə bilərsiniz? Yoxlayım.
+Müştəri: Leyla Əhmədova, 055-777-88-99.
+Operator: Bir saniyə... Bəli, cari tarifiniz "Nar Plus"dır. Aylıq 15 GB internet daxildir. Hazırda 8 GB istifadə etmisiniz.
+Müştəri: Əla, çox sağ olun. Bu qədər idi.
+Operator: Başqa kömək lazımdır?
+Müştəri: Xeyr, təşəkkür edirəm.
+Operator: Gününüz xoş keçsin, Leyla xanım.

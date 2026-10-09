@@ -1,0 +1,10 @@
+Operator: Bakcell dəstək xətti, salam. Mənim adım Rəşad.
+Müştəri: Salam, mən Dr. Nurlan Əliyev, "MedLine" klinikasından zəng edirəm. Təcili vəziyyətimiz var.
+Operator: Buyurun, nə baş verib?
+Müştəri: Bütün telefon xətlərimiz işləmir. Nə zəng edə bilirik, nə də qəbul edə bilirik. Xəstəxananın təcili yardım xətti də sıradadır.
+Operator: Bu çox ciddi vəziyyətdir. Nə vaxtdan başlayıb?
+Müştəri: Təxminən 20 dəqiqə əvvəl. Hamısı eyni anda kəsildi.
+Operator: Anladım, bu P0 səviyyəsidir. Dərhal texniki qrupa ötürürəm. Sizinlə əlaqə saxlamaq üçün ən yaxşı nömrə hansıdır?
+Müştəri: 050-312-45-67. Zəhmət olmasa təcili.
+Operator: Qeyd etdim. 15 dəqiqə içində sizə zəng ediləcək.
+Müştəri: Gözləyirik, bu bizim üçün həyati vacibdir.

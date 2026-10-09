@@ -1,0 +1,10 @@
+Operator: Azercell müştəri xidmətləri, salam. Mənim adım Gülnar. Sizə necə kömək edə bilərəm?
+Müştəri: Salam, mən Elvin Məmmədovam, "Alfa Tikinti" şirkətindən zəng edirəm. Səhərdən bəri korporativ nömrələrimizdə internet işləmir.
+Operator: Başa düşürəm, cənab Məmmədov. Hansı nömrələrdə problem var?
+Müştəri: Təxminən 30 nömrə. Hamısı eyni SIM kart paketindədir. İşçilərimiz WhatsApp, e-mail heç nəyə girə bilmir.
+Operator: Yəni şirkət daxilində kütləvi problemdir?
+Müştəri: Bəli, demək olar ki, hamısı. Bu bizim işimizi tam dayandırıb.
+Operator: Anladım. Bunu P1 kimi qeyd edirəm və dərhal şəbəkə komandasına ötürürəm. Əlaqə üçün e-poçt ünvanınızı verə bilərsiniz?
+Müştəri: elvin.m@alfatikinti.az
+Operator: Təşəkkür edirəm. Bir saat içində sizə məlumat veriləcək.
+Müştəri: Zəhmət olmasa tez həll edin.

@@ -1,0 +1,12 @@
+Operator: Bakcell dəstək xətti, salam. Mənim adım Səbinə.
+Müştəri: Salam, mən Pərviz Quliyev, "Zenit Market" şirkətindən. Bir problemimiz var.
+Operator: Buyurun, cənab Quliyev.
+Müştəri: Şirkətimizin 15 korporativ nömrəsindən balansdan artıq pul çıxılıb. Hesab-fakturamız normaldan iki dəfə çoxdur.
+Operator: Bu ay üçün?
+Müştəri: Bəli, bu ay. Keçən ayla müqayisədə iki qat artıb, halbuki istifadə eyni olub.
+Operator: Çox maraqlıdır. Bu bütün nömrələrə aiddir, yoxsa bəzilərinə?
+Müştəri: Hamısına. Hamısı eyni anda artıb.
+Operator: Anladım. Bu kütləvi balans problemi kimi görünür, P1 kimi qeyd edirəm və maliyyə şöbəsinə ötürürəm. Əlaqə üçün məlumatlarınızı verə bilərsiniz?
+Müştəri: p.qudiyev@zenitmarket.az, iş nömrəm 012-490-55-66.
+Operator: Qeyd etdim. Təsdiq e-məktubu və bilet nömrəsi göndəriləcək.
+Müştəri: Zəhmət olmasa tez baxın, bu bizim üçün ciddi maliyyə itkisidir.
